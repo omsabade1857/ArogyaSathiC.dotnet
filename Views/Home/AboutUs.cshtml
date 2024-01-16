@@ -1,0 +1,211 @@
+﻿
+@{
+    ViewData["Title"] = "AboutUs";
+}
+
+
+<partial name="_PartialLayoutAboutUs">
+
+<body>
+        <partial name="_DashboardPartialView" />
+        <partial name="_PartialLayoutAboutUs" />
+    <section id="departments" class="departments">
+            <div style="color:rgb(44, 73, 100)">
+                <h2 class="section-title"><b>Welcome to Aarogya Sathi where healthcare meets innovation!</b></h2>
+                <p>
+                    Aarogya Sathi is a collaborative effort of a dynamic team of healthcare
+                    experts, software engineers, and innovators. With a shared vision of
+                    transforming healthcare delivery, we bring together expertise from the
+                    medical field and the tech industry to create a platform that redefines
+                    the patient-doctor relationship.
+                </p>
+            </div>
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Departments</h2>
+            </div>
+
+            <div class="row gy-4">
+                <div class="col-lg-3">
+                    <ul class="nav nav-tabs flex-column">
+                        <li class="nav-item">
+                            <a class="nav-link active show" data-bs-toggle="tab" href="#tab-1">General Medicine</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" data-bs-toggle="tab" href="#tab-2">Cardiology</a>
+                        </li>
+                        <li class="nav-item">
+                                <a class="nav-link" data-bs-toggle="tab" href="#tab-3">Ophthalmology</a>
+                        </li>
+                        <li class="nav-item">
+                                <a class="nav-link" data-bs-toggle="tab" href="#tab-4">Dermatology</a>
+                        </li>
+                        <li class="nav-item">
+                                <a class="nav-link" data-bs-toggle="tab" href="#tab-5">Orthopedics</a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-lg-9">
+                    <div class="tab-content">
+                        <div class="tab-pane active show" id="tab-1">
+                            <div class="row gy-4">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>General Medicine</h3>
+                                        <p class="fst-italic">Our team of Physicians specializes in general medicine, offering expert care for a wide range of medical conditions. Whether you're seeking preventive care or managing a chronic illness, our physicians are here to provide personalized and attentive healthcare services.</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                    <img src="~/assets/img/departments-1.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-2">
+                            <div class="row gy-4">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                    <h3>Cardiology</h3>
+                                        <p class="fst-italic">Led by our Cardiologists, this department focuses on heart health. From routine check-ups to advanced cardiac interventions, our cardiologists are dedicated to ensuring the well-being of your heart. Your cardiovascular health is in capable hands at AarogyaSathi.</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                        <img src="~/assets/img/departments-2.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-3">
+                            <div class="row gy-4">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                        <h3>Ophthalmology</h3>
+                                        <p class="fst-italic"> The Ophthalmology department is staffed by skilled eye care professionals who specialize in the diagnosis and treatment of eye conditions. Our Ophthalmologists are committed to preserving and enhancing your vision through cutting-edge treatments and compassionate care.</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                        <img src="~/assets/img/departments-3.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-4">
+                            <div class="row gy-4">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                        <h3>Dermatology</h3>
+                                        <p class="fst-italic">Skin health is paramount, and our Dermatologists are here to address your dermatological concerns. From skincare routines to the management of skin disorders, our dermatology team is dedicated to helping you achieve and maintain healthy skin.</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                        <img src="~/assets/img/departments-4.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                        <div class="tab-pane" id="tab-5">
+                            <div class="row gy-4">
+                                <div class="col-lg-8 details order-2 order-lg-1">
+                                        <h3>Orthopedics</h3>
+                                        <p class="fst-italic">The Orthopedic department at AarogyaSathi is dedicated to the musculoskeletal health of our patients. Our Orthopedic specialists are experienced in diagnosing and treating a variety of orthopedic conditions, helping you regain mobility and live an active life.</p>
+                                </div>
+                                <div class="col-lg-4 text-center order-1 order-lg-2">
+                                        <img src="~/assets/img/departments-5.jpg" alt="" class="img-fluid">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+        <section id="doctors" class="doctors">
+            <div class="container">
+
+                <div class="section-title">
+                    <h2>Doctors</h2>
+                </div>
+                
+                <div class="row">
+
+                    <div class="col-lg-6">
+                        <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="~/assets/img/doctors/doctors-2.jpg" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Dr. Riya Sharma</h4>
+                                <span>Chief Medical Officer, Orthopaedic Surgeon</span>
+                                  <p>M.B.B.S., M.S.</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-4 mt-lg-0">
+                        <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="~/assets/img/doctors/doctors-1.jpg" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Dr. Aarav Kumar</h4>
+                                <span>Cardiologist</span>
+                                <p>M.B.B.S., M.D.</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-4">
+                        <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="~/assets/img/doctors/doctors-3.jpg" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Dr. Advait Patel</h4>
+                                <span>Ophthalmologist</span>
+                                <p>M.B.B.S.</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-6 mt-4">
+                        <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="~/assets/img/doctors/doctors-4.jpg" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Dr. Naina Reddy</h4>
+                                <span>Dermatologist</span>
+                                <p>M.B.B.S., M.D.</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6 mt-4">
+                        <div class="member d-flex align-items-start">
+                            <div class="pic"><img src="~/assets/img/doctors/doctors-5.jpg" class="img-fluid" alt=""></div>
+                            <div class="member-info">
+                                <h4>Dr. Aniket Singh</h4>
+                                <span>Physician</span>
+                                <p>M.B.B.S., M.S.</p>
+                                <div class="social">
+                                    <a href=""><i class="ri-twitter-fill"></i></a>
+                                    <a href=""><i class="ri-facebook-fill"></i></a>
+                                    <a href=""><i class="ri-instagram-fill"></i></a>
+                                    <a href=""> <i class="ri-linkedin-box-fill"></i> </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+        </section><!-- End Doctors Section -->
+    
+    </body>
+

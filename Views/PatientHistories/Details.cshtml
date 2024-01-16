@@ -1,0 +1,66 @@
+﻿@model AarogyaSaathi.Models.PatientHistory
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+
+
+<div>
+    <h4>Patient History</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Gender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Gender)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Age)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Age)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.visitDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.visitDate)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.doctorName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.doctorName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.symptoms)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.symptoms)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.medicine)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.medicine)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.remark)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.remark)
+        </dd>
+    </dl>
+</div>
+<div>
+   
+    <a asp-action="Index">Back to List</a>
+</div>

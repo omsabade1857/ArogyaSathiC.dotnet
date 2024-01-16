@@ -1,0 +1,71 @@
+﻿@model AarogyaSaathi.Models.PatientHistory
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>PatientHistory</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create2">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gender" class="control-label"></label>
+                <input asp-for="Gender" class="form-control" />
+                <span asp-validation-for="Gender" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Age" class="control-label"></label>
+                <input asp-for="Age" class="form-control" />
+                <span asp-validation-for="Age" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="visitDate" class="control-label"></label>
+                <input asp-for="visitDate" class="form-control" />
+                <span asp-validation-for="visitDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="doctorName" class="control-label"></label>
+                <input asp-for="doctorName" class="form-control" />
+                <span asp-validation-for="doctorName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="symptoms" class="control-label"></label>
+                <input asp-for="symptoms" class="form-control" />
+                <span asp-validation-for="symptoms" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="medicine" class="control-label"></label>
+                <input asp-for="medicine" class="form-control" />
+                <span asp-validation-for="medicine" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="remark" class="control-label"></label>
+                <input asp-for="remark" class="form-control" />
+                <span asp-validation-for="remark" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index2">Back to List</a>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}
+

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<AarogyaSaathi.Models.Appointment>
+
+@{
+    ViewData["Title"] = "ShowApp";
+}
+
+<h3>List of Appointments</h3>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>
+                @Html.DisplayNameFor(model => model.Symptoms)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Status)
+            </th>
+            @* <th>
+                @Html.DisplayNameFor(model => model.PatientId)
+            </th> *@
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.DoctorId)
+            </td> *@
+            <td>
+                @Html.DisplayFor(modelItem => item.Symptoms)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BookingDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            @* <td>
+                @Html.DisplayFor(modelItem => item.PatientId)
+            </td> *@
+            <td>
+                <a asp-action="EditDApp" asp-route-id="@item.Id" class="btn btn-success">Edit</a> 
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

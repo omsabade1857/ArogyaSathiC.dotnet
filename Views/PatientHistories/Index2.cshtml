@@ -1,0 +1,83 @@
+﻿
+@model IEnumerable<AarogyaSaathi.Models.PatientHistory>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1 style="text-align:center">Medical History</h1>
+
+<p>
+    <a asp-action="Create2" class="btn btn-primary">Add New Report</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Gender)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            @*  <th>
+            @Html.DisplayNameFor(model => model.visitDate)
+            </th>
+            <th>
+            @Html.DisplayNameFor(model => model.doctorName)
+            </th>
+            <th>
+            @Html.DisplayNameFor(model => model.symptoms)
+            </th>
+            <th>
+            @Html.DisplayNameFor(model => model.medicine)
+            </th>
+            <th>
+            @Html.DisplayNameFor(model => model.remark)
+            </th> *@
+            &nbsp; &nbsp;&nbsp;&nbsp;
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Gender)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Age)
+                </td>
+                &nbsp; &nbsp;&nbsp;&nbsp;
+                @*  <td>
+            @Html.DisplayFor(modelItem => item.visitDate)
+            </td>
+            <td>
+            @Html.DisplayFor(modelItem => item.doctorName)
+            </td>
+            <td>
+            @Html.DisplayFor(modelItem => item.symptoms)
+            </td>
+            <td>
+            @Html.DisplayFor(modelItem => item.medicine)
+            </td>
+            <td>
+            @Html.DisplayFor(modelItem => item.remark)
+            </td> *@
+                &nbsp; &nbsp;&nbsp;&nbsp;
+                <td>
+                    @* <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-success">Edit</a> | *@
+                    <a asp-action="Details2" asp-route-id="@item.Id" class="btn btn-secondary">Details</a> 
+                   @*  <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a> *@
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
