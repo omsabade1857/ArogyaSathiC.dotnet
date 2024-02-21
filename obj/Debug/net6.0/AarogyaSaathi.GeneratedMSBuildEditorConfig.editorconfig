@@ -9,379 +9,383 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AarogyaSaathi
 build_property.RootNamespace = AarogyaSaathi
-build_property.ProjectDir = D:\CDAC\project\dotNet\
+build_property.ProjectDir = D:\CDAC\project\dotNet\ArogyaSathiC.dotnet\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\CDAC\project\dotNet
+build_property.MSBuildProjectDirectory = D:\CDAC\project\dotNet\ArogyaSathiC.dotnet
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/AccessDenied.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/AccessDenied.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxBY2Nlc3NEZW5pZWQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ConfirmEmail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ConfirmEmailChange.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxDb25maXJtRW1haWxDaGFuZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ExternalLogin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxFeHRlcm5hbExvZ2luLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ForgotPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ForgotPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxGb3Jnb3RQYXNzd29yZENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Lockout.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Lockout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2Nrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Login.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/LoginWith2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGgyZmEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/LoginWithRecoveryCode.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dpbldpdGhSZWNvdmVyeUNvZGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Logout.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Logout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxMb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/ChangePassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcQ2hhbmdlUGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/DeletePersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGVsZXRlUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/Disable2fa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRGlzYWJsZTJmYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/DownloadPersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRG93bmxvYWRQZXJzb25hbERhdGEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/Email.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/Email.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW1haWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/EnableAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRW5hYmxlQXV0aGVudGljYXRvci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/ExternalLogins.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcRXh0ZXJuYWxMb2dpbnMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/GenerateRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcR2VuZXJhdGVSZWNvdmVyeUNvZGVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/Index.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/PersonalData.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUGVyc29uYWxEYXRhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/ResetAuthenticator.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcUmVzZXRBdXRoZW50aWNhdG9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/SetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2V0UGFzc3dvcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/ShowRecoveryCodes.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcU2hvd1JlY292ZXJ5Q29kZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/TwoFactorAuthentication.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcVHdvRmFjdG9yQXV0aGVudGljYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/_ManageNav.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX01hbmFnZU5hdi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1N0YXR1c01lc3NhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Manage/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxNYW5hZ2VcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/Register.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/Register.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/RegisterConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZWdpc3RlckNvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ResendEmailConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNlbmRFbWFpbENvbmZpcm1hdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ResetPassword.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ResetPassword.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/ResetPasswordConfirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxSZXNldFBhc3N3b3JkQ29uZmlybWF0aW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/_StatusMessage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfU3RhdHVzTWVzc2FnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Account/_ViewImports.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Account/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcQWNjb3VudFxfVmlld0ltcG9ydHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/Error.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZhbGlkYXRpb25TY3JpcHRzUGFydGlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/_ViewImports.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Areas/Identity/Pages/_ViewStart.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/AppRoles/CreateRole.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/AppRoles/CreateRole.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcQ3JlYXRlUm9sZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/AppRoles/GetPatients.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/AppRoles/GetPatients.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcR2V0UGF0aWVudHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/AppRoles/List.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/AppRoles/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwUm9sZXNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/DoctorRecords/Create.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/DoctorRecords/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yUmVjb3Jkc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/DoctorRecords/Delete.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/DoctorRecords/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yUmVjb3Jkc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/DoctorRecords/Details.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/DoctorRecords/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yUmVjb3Jkc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/DoctorRecords/Edit.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/DoctorRecords/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yUmVjb3Jkc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/DoctorRecords/Index.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/DoctorRecords/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yUmVjb3Jkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Doctors/Create.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Doctors/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Doctors/Delete.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Doctors/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Doctors/Details.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Doctors/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Doctors/Edit.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Doctors/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Doctors/EditDApp.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Doctors/EditDApp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xFZGl0REFwcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Doctors/Index.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Doctors/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Doctors/ShowApp.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Doctors/ShowApp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9jdG9yc1xTaG93QXBwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Home/AboutUs.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Home/Dashboard.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Home/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEYXNoYm9hcmQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Home/Index.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Home/Privacy.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Create.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Create2.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Create2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xDcmVhdGUyLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Delete.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Details.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Details2.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Details2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xEZXRhaWxzMi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Edit.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Index.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientHistories/Index2.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientHistories/Index2.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudEhpc3Rvcmllc1xJbmRleDIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientRecords/Create.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientRecords/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlY29yZHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientRecords/Delete.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientRecords/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlY29yZHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientRecords/Details.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientRecords/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlY29yZHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientRecords/Edit.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientRecords/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlY29yZHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/PatientRecords/Index.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/PatientRecords/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudFJlY29yZHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/BookApp.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/BookApp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQm9va0FwcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/Create.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/Delete.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/DeleteApp.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/DeleteApp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGVsZXRlQXBwLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/Details.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/Edit.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/EditApp.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/EditApp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcRWRpdEFwcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/Index.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Patients/ShowApp.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Patients/ShowApp.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGF0aWVudHNcU2hvd0FwcC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Shared/Error.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Shared/_DashboardPartialView.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_DashboardPartialView.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmRQYXJ0aWFsVmlldy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Shared/_LoginPartial.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_IndexDash.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9JbmRleERhc2guY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Shared/_PartialLayoutAboutUs.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_PartialLayoutAboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXJ0aWFsTGF5b3V0QWJvdXRVcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/_ViewImports.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/_ViewStart.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/CDAC/project/dotNet/Views/Shared/_AdminLayout.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-z7la7a3wfa
 
-[D:/CDAC/project/dotNet/Views/Shared/_DoctorLayout.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_DoctorLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Eb2N0b3JMYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-3pnr2bw6w2
 
-[D:/CDAC/project/dotNet/Views/Shared/_Layout.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-yexbm6f11e
 
-[D:/CDAC/project/dotNet/Views/Shared/_PatientLayout.cshtml]
+[D:/CDAC/project/dotNet/ArogyaSathiC.dotnet/Views/Shared/_PatientLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9QYXRpZW50TGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = b-wsqeyqixh9

@@ -12054,11 +12054,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CDAC\\project\\dotNet\\AarogyaSaathi.csproj",
+      "projectUniqueName": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\AarogyaSaathi.csproj",
       "projectName": "AarogyaSaathi",
-      "projectPath": "D:\\CDAC\\project\\dotNet\\AarogyaSaathi.csproj",
+      "projectPath": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\AarogyaSaathi.csproj",
       "packagesPath": "C:\\Users\\omkar\\.nuget\\packages\\",
-      "outputPath": "D:\\CDAC\\project\\dotNet\\obj\\",
+      "outputPath": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\omkar\\AppData\\Roaming\\NuGet\\NuGet.Config",

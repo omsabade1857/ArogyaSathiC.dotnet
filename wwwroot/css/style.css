@@ -1,7 +1,10 @@
 ﻿body {
     background: #fbfbfd;
+  
 }
-
+#hero {
+    padding-top: 0;
+}
 .new_footer_area {
     background: #fbfbfd;
 }

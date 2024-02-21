@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tWEvysKHvr4JSHYm2WVJD8ILKk60/8pR227WCpS7IzArLdToAqYyHK+Q2hDpCk0uWxNhIJGJ5QCZ7uY6kQanow==",
+  "dgSpecHash": "/4hxSgLslfkBg152lwF/nOPCsES6aYz5fIY7okcbesPO6ZXI/0FUerBehS5HSSywhn3Txt1khazk4Ui676hADw==",
   "success": true,
-  "projectFilePath": "D:\\CDAC\\project\\dotNet\\AarogyaSaathi.csproj",
+  "projectFilePath": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\AarogyaSaathi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omkar\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\omkar\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

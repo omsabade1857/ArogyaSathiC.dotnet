@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dtxm0wqxMOI4ZLUZsb2+rvgKc3COUDeAN2uOdrYXGeE=",
+  "Hash": "uJjoWMMaLk+TsnqZn1l7MsTCUqhSbbfMkh0zc3r0T4s=",
   "Source": "AarogyaSaathi",
   "BasePath": "_content/AarogyaSaathi",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "AarogyaSaathi\\wwwroot",
       "Source": "AarogyaSaathi",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "Pattern": "**"
     }
@@ -1157,10 +1157,10 @@
       "OriginalItemSpec": "C:\\Users\\omkar\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.23\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AarogyaSaathi.styles.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AarogyaSaathi.styles.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "AarogyaSaathi.styles.css",
       "AssetKind": "All",
@@ -1173,13 +1173,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CDAC\\project\\dotNet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AarogyaSaathi.styles.css"
+      "OriginalItemSpec": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\obj\\Debug\\net6.0\\scopedcss\\bundle\\AarogyaSaathi.styles.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AarogyaSaathi.bundle.scp.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AarogyaSaathi.bundle.scp.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "AarogyaSaathi.bundle.scp.css",
       "AssetKind": "All",
@@ -1192,13 +1192,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CDAC\\project\\dotNet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AarogyaSaathi.bundle.scp.css"
+      "OriginalItemSpec": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\AarogyaSaathi.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\css\\aboutusstyle.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\css\\aboutusstyle.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/css/aboutusstyle.css",
       "AssetKind": "All",
@@ -1214,10 +1214,162 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\aboutusstyle.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\departments-1.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\html\\doctor.html",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/html/doctor.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\html\\doctor.html"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\html\\portfolio.html",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/html/portfolio.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\html\\portfolio.html"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\1.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\1.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\2.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\2.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\3.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/3.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\3.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\4.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/4.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\4.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\5.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\5.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\about-img.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/about-img.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\about-img.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\departments-1.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/departments-1.jpg",
       "AssetKind": "All",
@@ -1233,10 +1385,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\departments-1.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\departments-2.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\departments-2.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/departments-2.jpg",
       "AssetKind": "All",
@@ -1252,10 +1404,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\departments-2.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\departments-3.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\departments-3.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/departments-3.jpg",
       "AssetKind": "All",
@@ -1271,10 +1423,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\departments-3.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\departments-4.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\departments-4.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/departments-4.jpg",
       "AssetKind": "All",
@@ -1290,10 +1442,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\departments-4.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\departments-5.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\departments-5.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/departments-5.jpg",
       "AssetKind": "All",
@@ -1309,10 +1461,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\departments-5.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\doctors\\doctors-1.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\doctors\\doctors-1.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/doctors/doctors-1.jpg",
       "AssetKind": "All",
@@ -1328,10 +1480,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\doctors\\doctors-1.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\doctors\\doctors-2.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\doctors\\doctors-2.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/doctors/doctors-2.jpg",
       "AssetKind": "All",
@@ -1347,10 +1499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\doctors\\doctors-2.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\doctors\\doctors-3.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\doctors\\doctors-3.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/doctors/doctors-3.jpg",
       "AssetKind": "All",
@@ -1366,10 +1518,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\doctors\\doctors-3.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\doctors\\doctors-4.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\doctors\\doctors-4.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/doctors/doctors-4.jpg",
       "AssetKind": "All",
@@ -1385,10 +1537,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\doctors\\doctors-4.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\doctors\\doctors-5.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\doctors\\doctors-5.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/doctors/doctors-5.jpg",
       "AssetKind": "All",
@@ -1404,10 +1556,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\doctors\\doctors-5.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\hero-bg.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/img/hero-bg.jpg",
       "AssetKind": "All",
@@ -1423,10 +1575,48 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\hero-bg.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\animate.css\\animate.compat.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\login.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/login.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\login.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\img\\register.jpg",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "assets/img/register.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\register.jpg"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\animate.css\\animate.compat.css",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/animate.css/animate.compat.css",
       "AssetKind": "All",
@@ -1442,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\animate.css\\animate.compat.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\animate.css\\animate.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\animate.css\\animate.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/animate.css/animate.css",
       "AssetKind": "All",
@@ -1461,10 +1651,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\animate.css\\animate.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\animate.css\\animate.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\animate.css\\animate.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/animate.css/animate.min.css",
       "AssetKind": "All",
@@ -1480,10 +1670,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\animate.css\\animate.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.css",
       "AssetKind": "All",
@@ -1499,10 +1689,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1518,10 +1708,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1537,10 +1727,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1556,10 +1746,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1575,10 +1765,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1594,10 +1784,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1613,10 +1803,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1632,10 +1822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1651,10 +1841,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1670,10 +1860,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1689,10 +1879,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1708,10 +1898,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1727,10 +1917,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1746,10 +1936,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1765,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1784,10 +1974,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1803,10 +1993,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1822,10 +2012,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1841,10 +2031,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1860,10 +2050,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1879,10 +2069,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1898,10 +2088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1917,10 +2107,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1936,10 +2126,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1955,10 +2145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1974,10 +2164,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1993,10 +2183,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -2012,10 +2202,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -2031,10 +2221,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -2050,10 +2240,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -2069,10 +2259,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2088,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2107,10 +2297,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2126,10 +2316,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2145,10 +2335,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2164,10 +2354,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2183,10 +2373,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2202,10 +2392,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2221,10 +2411,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2240,10 +2430,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -2259,10 +2449,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2278,10 +2468,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2297,10 +2487,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2316,10 +2506,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.css",
       "AssetKind": "All",
@@ -2335,10 +2525,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -2354,10 +2544,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.min.css",
       "AssetKind": "All",
@@ -2373,10 +2563,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.scss",
       "AssetKind": "All",
@@ -2392,10 +2582,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff",
       "AssetKind": "All",
@@ -2411,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/bootstrap-icons/fonts/bootstrap-icons.woff2",
       "AssetKind": "All",
@@ -2430,10 +2620,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/css/animations.css",
       "AssetKind": "All",
@@ -2449,10 +2639,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\animations.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/css/boxicons.css",
       "AssetKind": "All",
@@ -2468,10 +2658,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/css/boxicons.min.css",
       "AssetKind": "All",
@@ -2487,10 +2677,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/css/transformations.css",
       "AssetKind": "All",
@@ -2506,10 +2696,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.eot",
       "AssetKind": "All",
@@ -2525,10 +2715,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.svg",
       "AssetKind": "All",
@@ -2544,10 +2734,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.ttf",
       "AssetKind": "All",
@@ -2563,10 +2753,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.woff",
       "AssetKind": "All",
@@ -2582,10 +2772,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/boxicons/fonts/boxicons.woff2",
       "AssetKind": "All",
@@ -2601,10 +2791,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/all.css",
       "AssetKind": "All",
@@ -2620,10 +2810,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/all.min.css",
       "AssetKind": "All",
@@ -2639,10 +2829,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\all.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/brands.css",
       "AssetKind": "All",
@@ -2658,10 +2848,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/brands.min.css",
       "AssetKind": "All",
@@ -2677,10 +2867,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\brands.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/fontawesome.css",
       "AssetKind": "All",
@@ -2696,10 +2886,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -2715,10 +2905,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/regular.css",
       "AssetKind": "All",
@@ -2734,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/regular.min.css",
       "AssetKind": "All",
@@ -2753,10 +2943,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\regular.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/solid.css",
       "AssetKind": "All",
@@ -2772,10 +2962,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/solid.min.css",
       "AssetKind": "All",
@@ -2791,10 +2981,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\solid.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/svg-with-js.css",
       "AssetKind": "All",
@@ -2810,10 +3000,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/svg-with-js.min.css",
       "AssetKind": "All",
@@ -2829,10 +3019,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/v4-font-face.css",
       "AssetKind": "All",
@@ -2848,10 +3038,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/v4-font-face.min.css",
       "AssetKind": "All",
@@ -2867,10 +3057,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-font-face.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/v4-shims.css",
       "AssetKind": "All",
@@ -2886,10 +3076,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/v4-shims.min.css",
       "AssetKind": "All",
@@ -2905,10 +3095,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/v5-font-face.css",
       "AssetKind": "All",
@@ -2924,10 +3114,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/css/v5-font-face.min.css",
       "AssetKind": "All",
@@ -2943,10 +3133,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\css\\v5-font-face.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -2962,10 +3152,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -2981,10 +3171,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -3000,10 +3190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -3019,10 +3209,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -3038,10 +3228,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -3057,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-v4compatibility.ttf",
       "AssetKind": "All",
@@ -3076,10 +3266,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/fontawesome-free/webfonts/fa-v4compatibility.woff2",
       "AssetKind": "All",
@@ -3095,10 +3285,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/glightbox/css/glightbox.css",
       "AssetKind": "All",
@@ -3114,10 +3304,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/glightbox/css/glightbox.min.css",
       "AssetKind": "All",
@@ -3133,10 +3323,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/glightbox/css/plyr.css",
       "AssetKind": "All",
@@ -3152,10 +3342,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/glightbox/css/plyr.min.css",
       "AssetKind": "All",
@@ -3171,10 +3361,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/glightbox/js/glightbox.js",
       "AssetKind": "All",
@@ -3190,10 +3380,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/glightbox/js/glightbox.min.js",
       "AssetKind": "All",
@@ -3209,10 +3399,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/php-email-form/validate.js",
       "AssetKind": "All",
@@ -3228,10 +3418,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\php-email-form\\validate.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/purecounter/purecounter_vanilla.js",
       "AssetKind": "All",
@@ -3247,10 +3437,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/purecounter/purecounter_vanilla.js.map",
       "AssetKind": "All",
@@ -3266,10 +3456,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\purecounter\\purecounter_vanilla.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.css",
       "AssetKind": "All",
@@ -3285,10 +3475,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.eot",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.eot",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.eot",
       "AssetKind": "All",
@@ -3304,10 +3494,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.eot"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.glyph.json",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.glyph.json",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.glyph.json",
       "AssetKind": "All",
@@ -3323,10 +3513,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.glyph.json"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.less",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.less",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.less",
       "AssetKind": "All",
@@ -3342,10 +3532,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.less"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.svg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.svg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.svg",
       "AssetKind": "All",
@@ -3361,10 +3551,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.svg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.symbol.svg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.symbol.svg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.symbol.svg",
       "AssetKind": "All",
@@ -3380,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.symbol.svg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.ttf",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.ttf",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.ttf",
       "AssetKind": "All",
@@ -3399,10 +3589,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.ttf"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.woff",
       "AssetKind": "All",
@@ -3418,10 +3608,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.woff"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff2",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\remixicon\\remixicon.woff2",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/remixicon/remixicon.woff2",
       "AssetKind": "All",
@@ -3437,10 +3627,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\remixicon\\remixicon.woff2"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/swiper/swiper-bundle.min.css",
       "AssetKind": "All",
@@ -3456,10 +3646,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/swiper/swiper-bundle.min.js",
       "AssetKind": "All",
@@ -3475,10 +3665,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "assets/vendor/swiper/swiper-bundle.min.js.map",
       "AssetKind": "All",
@@ -3494,10 +3684,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\css\\site.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\css\\site.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -3513,10 +3703,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\css\\style.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\css\\style.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -3532,10 +3722,29 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\favicon.ico",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\css\\stylef.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
+      "BasePath": "_content/AarogyaSaathi",
+      "RelativePath": "css/stylef.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\stylef.css"
+    },
+    {
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\favicon.ico",
+      "SourceId": "AarogyaSaathi",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -3551,10 +3760,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\admin.png",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\admin.png",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/admin.png",
       "AssetKind": "All",
@@ -3570,10 +3779,10 @@
       "OriginalItemSpec": "wwwroot\\img\\admin.png"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\checkup.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\checkup.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/checkup.jpg",
       "AssetKind": "All",
@@ -3589,10 +3798,10 @@
       "OriginalItemSpec": "wwwroot\\img\\checkup.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\doctor team.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\doctor team.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/doctor team.jpg",
       "AssetKind": "All",
@@ -3608,10 +3817,10 @@
       "OriginalItemSpec": "wwwroot\\img\\doctor team.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\doctor_2785482.png",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\doctor_2785482.png",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/doctor_2785482.png",
       "AssetKind": "All",
@@ -3627,10 +3836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\doctor_2785482.png"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\logo.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\logo.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/logo.jpg",
       "AssetKind": "All",
@@ -3646,10 +3855,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\oncologist_3.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\oncologist_3.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/oncologist_3.jpg",
       "AssetKind": "All",
@@ -3665,10 +3874,10 @@
       "OriginalItemSpec": "wwwroot\\img\\oncologist_3.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\patient.png",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\patient.png",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/patient.png",
       "AssetKind": "All",
@@ -3684,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\img\\patient.png"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\pulmonologist_5.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\pulmonologist_5.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/pulmonologist_5.jpg",
       "AssetKind": "All",
@@ -3703,10 +3912,10 @@
       "OriginalItemSpec": "wwwroot\\img\\pulmonologist_5.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\team\\Kanika.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\team\\Kanika.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/team/Kanika.jpg",
       "AssetKind": "All",
@@ -3722,10 +3931,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\Kanika.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\team\\nishant.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\team\\nishant.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/team/nishant.jpg",
       "AssetKind": "All",
@@ -3741,10 +3950,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\nishant.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\team\\om.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\team\\om.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/team/om.jpg",
       "AssetKind": "All",
@@ -3760,10 +3969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\om.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\team\\vaibhav.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\team\\vaibhav.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/team/vaibhav.jpg",
       "AssetKind": "All",
@@ -3779,10 +3988,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\vaibhav.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\team\\yash.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\team\\yash.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/team/yash.jpg",
       "AssetKind": "All",
@@ -3798,10 +4007,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\yash.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\test.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\test.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/test.jpg",
       "AssetKind": "All",
@@ -3817,10 +4026,10 @@
       "OriginalItemSpec": "wwwroot\\img\\test.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\img\\treatment_05.jpg",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\img\\treatment_05.jpg",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "img/treatment_05.jpg",
       "AssetKind": "All",
@@ -3836,10 +4045,10 @@
       "OriginalItemSpec": "wwwroot\\img\\treatment_05.jpg"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\js\\site.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\js\\site.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -3855,10 +4064,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -3874,10 +4083,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -3893,10 +4102,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -3912,10 +4121,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -3931,10 +4140,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -3950,10 +4159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -3969,10 +4178,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -3988,10 +4197,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -4007,10 +4216,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -4026,10 +4235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -4045,10 +4254,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -4064,10 +4273,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -4083,10 +4292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -4102,10 +4311,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -4121,10 +4330,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -4140,10 +4349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -4159,10 +4368,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -4178,10 +4387,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -4197,10 +4406,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -4216,10 +4425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -4235,10 +4444,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -4254,10 +4463,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -4273,10 +4482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -4292,10 +4501,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -4311,10 +4520,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -4330,10 +4539,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -4349,10 +4558,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -4368,10 +4577,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -4387,10 +4596,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -4406,10 +4615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -4425,10 +4634,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -4444,10 +4653,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -4463,10 +4672,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -4482,10 +4691,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -4501,10 +4710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -4520,10 +4729,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -4539,10 +4748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -4558,10 +4767,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -4577,10 +4786,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -4596,10 +4805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -4615,10 +4824,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -4634,10 +4843,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -4653,10 +4862,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -4672,10 +4881,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -4691,10 +4900,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -4710,10 +4919,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -4729,10 +4938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -4748,10 +4957,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -4767,10 +4976,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -4786,10 +4995,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -4805,10 +5014,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -4824,10 +5033,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -4843,10 +5052,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -4862,10 +5071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -4881,10 +5090,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -4900,10 +5109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -4919,10 +5128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\CDAC\\project\\dotNet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "AarogyaSaathi",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CDAC\\project\\dotNet\\wwwroot\\",
+      "ContentRoot": "D:\\CDAC\\project\\dotNet\\ArogyaSathiC.dotnet\\wwwroot\\",
       "BasePath": "_content/AarogyaSaathi",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
